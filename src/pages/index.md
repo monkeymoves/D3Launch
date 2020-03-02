@@ -3,7 +3,7 @@ templateKey: index-page
 title: 
 image: /img/D3_Dark_Digital.png
 heading: Great coffee with a conscience
-subheading: img/D3.png
+subheading: img/LogoD3_white.png
 mainpitch:
   title: Hi, Welcome To D3
   description: >

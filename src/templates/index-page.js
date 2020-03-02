@@ -39,6 +39,7 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
+          <img className="D3BannerLogo" src={subheading} alt="logo"/>
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
@@ -48,7 +49,6 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
-          <img className="" src={subheading} alt="logo"/>
 
         </h1>
        
