@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience4
+title: 
 image: /img/D3_Dark_Digital.png
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: img/D3.png
 mainpitch:
-  title: Why Kaldi
+  title: Hi, Welcome To D3
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We're a digital marketing agency that specialise in taking a data driven approach to helping modern businesses grow.
+    "It works, we can prove it."
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
