@@ -1,14 +1,10 @@
 ---
-templateKey: 'product-page'
+heading: 'Data Driven Decisions are everywhere! '
 path: /products
-title: Our Coffee
+templateKey: product-page
+title: Our Data
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: D3 is the ultimate agency for all your digital needs
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +95,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
