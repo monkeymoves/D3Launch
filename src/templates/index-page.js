@@ -39,19 +39,22 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
-          <img className="D3BannerLogo" src={subheading} alt="logo"/>
-        <h1
+      <img className="D3BannerLogo" src={subheading} alt="logo"/>
+
+        <p
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-           
+           backgroundColor: 'black',
             color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
+            lineHeight: '40',
+            padding: '40',
+            opacity:'80%'
           }}
         >
+      
+      
 
-        </h1>
-       
+        </p>
       </div>
     </div>
     <section className="section section--gradient">
