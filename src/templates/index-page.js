@@ -63,13 +63,15 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+                <div className="content  has-text-centered">
+                  <div className=" has-text-centered ">
+                    <h1 className="title ">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
+                    <h5 className="subtitle">{mainpitch.description} </h5>
                   </div>
+                  
+                     <h5 className="subtitle"> <strong><em>"It works, don't just take our word for it, we can prove it!"</em></strong></h5>
                 </div>
                 <div className="columns">
                   <div className="column is-12">
@@ -82,8 +84,8 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
+                    <Link className="btn" to="/portfolio">
+                      See all portfolio
                     </Link>
                   </div>
                 </div>
@@ -104,7 +106,7 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>
-  </div>
+  </div> 
 )
 
 IndexPageTemplate.propTypes = {
