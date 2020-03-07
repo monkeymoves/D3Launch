@@ -12,6 +12,13 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+            
+              <div
+                className="luke-banner-full-width-image-container margin-top-0"
+                style={{
+                  backgroundImage: `url('/img/jumbotron.jpg')`,
+                }}
+              ></div>
             <div className="section">
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
@@ -24,6 +31,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
     </section>
   )
 }
+
 
 AboutPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
@@ -39,6 +47,8 @@ const AboutPage = ({ data }) => {
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
+        image={post.frontmatter.image}
+
         content={post.html}
       />
     </Layout>

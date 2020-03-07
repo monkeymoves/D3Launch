@@ -10,19 +10,12 @@ mainpitch:
     We're a UK digital marketing agency that specialise in taking a data driven approach to helping modern businesses grow.
     
 description: >-
-  Kaldi is the ultimate spot for D3 lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take D3 production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The path to the outcomes you care about always involve a unique mixture of people, data and technology. Our hope is that after working with us, you’ll have a clearer picture of the steps you need to take to make data driven marketing an essential part of your business.
 intro:
   blurbs:
     - image: /img/home-jumbotron.jpg
       text: >
-        We sell green and roasted D3 beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of D3 beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Whether it’s working closely with your in-house team or running campaigns directly. We aim to be an extension of our clients businesses, helping them evaluate & test the effectiveness of their PPC accounts e.g. ad scripting, keywords analysis, tracking, landing page A/B testing.
     - image: /img/D3-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and

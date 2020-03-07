@@ -4,18 +4,18 @@ import { Link } from 'gatsby'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import linkedin from '../img/social/linkedin.svg'
 
 const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img
-          src="/img/LogoD3.svg"
+        <Link to="/"><img
+          src="/img/LogoD3_white.png"
             alt="D3"
-            style={{ width: '14em', height: '10em', color: 'white' }}
-          />
+            style={{ width: '5em', height: '5em', color: 'white' }}
+          /></Link>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
@@ -34,15 +34,12 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/portfolio">
-                        portfolio
+                      <Link className="navbar-item" to="/products">
+                        products
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
+                     
+                   
                     <li>
                       <a
                         className="navbar-item"
@@ -73,7 +70,7 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="facebook.com/datadrivendecisions">
                   <img
                     src={facebook}
                     alt="Facebook"
@@ -88,17 +85,17 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://www.instagram.com/datadrivendecisionsltd">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="linkedin" href="https://www.linkedin.com/in/kate-horsington-3b73534a/">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={linkedin}
+                    alt="linkedin"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>

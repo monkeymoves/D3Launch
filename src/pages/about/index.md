@@ -1,19 +1,32 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: 
+image: /img/D3_Dark_Digital.png
+
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### About Us
+In an increasingly challenging business environment, getting your digital marketing right is essential.
+But with so many different ways to spend your budget, cutting through the waffle and getting results
+isn’t always easy.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Enter D3. We take the guesswork out of digital marketing, using data-driven decisions to make sure
+your budget is being spent in the right places. We’ll help you get your products or services in front of
+customers and, importantly, convert them into sales.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Who we are
+D3 was founded by <a title="linkedin" href="https://www.linkedin.com/in/kate-horsington-3b73534a/">Kate Horsington</a>, an award-winning PPC specialist with over a decade working in
+some of the most competitive and challenging areas of digital marketing at London Stock Exchange-
+listed GoCompare Group PLC. Kate brings extensive knowledge of managing multi-million-pound
+budgets for household name brands and has a track record of delivering outstanding results.
+Whether you’re a small business looking to dip your toe into digital advertising or an established
+brand who needs additional support with big campaigns, D3 can give you a vital advantage over your
+competitors using our analytical, scientific approach to marketing.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Why we are different 
+D3 stands for Data-Driven Decisions – these are at the heart of everything we do. Simply, we’ll help
+you make informed choices on your digital marketing, and ensure that every pound you spend is
+working as hard as it can.
+We’re different from most digital agencies. We won’t bamboozle you with buzzwords, and we won’t
+promise you things that aren’t deliverable. We won’t charge you for services you don’t need, and as
+we don’t have expensive overheads, we can pass the savings on to you.

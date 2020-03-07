@@ -10,11 +10,11 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/jumbotron.jpg')`,
           }}
         >
           <h1
-            className="has-text-weight-bold is-size-1"
+            className="has-text-weight-bold is-size-3"
             style={{
               boxShadow: '0.5rem 0 0 #009CB4, -0.5rem 0 0 #009CB4',
               backgroundColor: '#009CB4',
