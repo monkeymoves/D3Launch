@@ -15,7 +15,9 @@ intro:
   blurbs:
     - image: /img/home-jumbotron.jpg
       text: >
-        Whether it’s working closely with your in-house team or running campaigns directly. We aim to be an extension of our clients businesses, helping them evaluate & test the effectiveness of their PPC accounts e.g. ad scripting, keywords analysis, tracking, landing page A/B testing.
+        Pay-per-click or ‘PPC’ advertising can be an incredibly effective marketing tool when done properly. But if you don’t know what you’re doing, or are making decisions without data-driven insights, services like Google Ads can be an expensive money pit.
+        Whether it’s working closely with your in-house team or running campaigns directly. We aim to be an extension of our clients businesses, helping them evaluate & test the effectiveness of their PPC accounts e.g. ad scripting, keywords analysis, tracking, landing page A/B testing
+        D3 can manage your PPC campaigns – from keyword research, managing budgets, creating landing pages and providing copy which sells, we can help you make sure that your ad budget delivers maximum results. 
     - image: /img/D3-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and

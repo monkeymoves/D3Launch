@@ -49,7 +49,7 @@ export default class Index extends React.Component {
                 onSubmit={this.handleSubmit}
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
+                <input type="hidden" name="form-name" value="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true" enctype="application/x-www-form-urlencoded"/>
                 <div hidden>
                   <label>
                     Don’t fill this out:{' '}
