@@ -10,7 +10,7 @@ mainpitch:
     We're a UK digital marketing agency that specialise in taking a data driven approach to helping modern businesses grow.
     
 description: >-
-  The path to the outcomes you care about always involve a unique mixture of people, data and technology. Our hope is that after working with us, you’ll have a clearer picture of the steps you need to take to make data driven marketing an essential part of your business.
+  The business outcomes you care about always involve a unique mixture of people, data and technology. Our hope is that after working with us, you’ll have a clearer picture of the steps you need to take to make data driven decisions an essential part of your business.
 intro:
   blurbs:
     - image: /img/home-jumbotron.jpg
