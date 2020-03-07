@@ -4,10 +4,10 @@ path: /products
 templateKey: product-page
 title:  Our Services
 image: /img/jumbotron.jpg
-description: D3 is the ultimate agency for all your digital needs
+description: 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: Google Ads
       text: >
         Pay-per-click or ‘PPC’ advertising can be an incredibly effective marketing tool when done properly. But if you don’t know what you’re doing,
         or are making decisions without data-driven insights, services like Google Ads can be an expensive money pit. D3 can manage your PPC campaigns – from keyword research,
@@ -38,13 +38,13 @@ main:
   description: >
     Just a sample of some of the companies and brands we've worked with (and many more we just can't talk about due to NDA's!). We like to think we've helped each and every one of them on their journey towards more data driven decisions and optimised processes
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/work3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: working with confused.com
     image: /img/work2.jpg
+  image2:
+    alt: working with the AA
+    image: /img/work9.jpg
   image3:
-    alt: Coffee beans
+    alt: working with corset story
     image: /img/work3.jpg
 testimonials:
   - author: Elisabeth Kaurismäki

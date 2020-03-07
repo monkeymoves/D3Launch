@@ -51,7 +51,7 @@ const Footer = class extends React.Component {
               />
             </a>
           </div>
-          <div class="footer-copyright">
+          <div className="footer-copyright">
             <p>Copyright © 2019. All Rights Reserved. <a href="www.datadrivendecisionsltd.com" target="_blank">D3 Digital</a></p>
           </div>
           <br></br>
