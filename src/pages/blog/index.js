@@ -7,13 +7,15 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
+        
+        <section className="section">
         <div
-          className="full-width-image-container margin-top-0"
+          className="med-width-image-container margin-top-0"
           style={{
             backgroundImage: `url('/img/jumbotron.jpg')`,
           }}
         >
-          <h1
+          {/* <h1
             className="has-text-weight-bold is-size-3"
             style={{
               boxShadow: '0.5rem 0 0 #009CB4, -0.5rem 0 0 #009CB4',
@@ -22,10 +24,9 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Stories
-          </h1>
+            D3 Blog
+          </h1> */}
         </div>
-        <section className="section">
           <div className="container">
             <div className="content">
               <BlogRoll />

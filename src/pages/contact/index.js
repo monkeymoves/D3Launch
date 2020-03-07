@@ -37,6 +37,12 @@ export default class Index extends React.Component {
     return (
       <Layout>
         <section className="section">
+        <div
+          className="med-width-image-container margin-top-0"
+          style={{
+            backgroundImage: `url('/img/jumbotron.jpg')`,
+          }}
+        ></div>
           <div className="container">
             <div className="content">
               <h1>Let's do something amazing!</h1>
