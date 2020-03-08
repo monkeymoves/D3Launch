@@ -9,7 +9,7 @@ tags:
   - data
   - decisions
 ---
-![D3](/img/D3_Dark_Digital.png)
+![D3](/img/comboWhite.png)
 
 All the talk about data driven decision making and its value in de-risking business strategy
 has always made me think about the whole concept of data driven decision making. Having
@@ -42,9 +42,25 @@ decision making to be most effective, it needs to be a collaborative approach be
 HiPPO and let’s call it, DAPPO, (Data Analyst Paid Person’s Opinion) approach.
 
 1. Data collection.
+    *	HiPPO - Gives their views on what type of data is important from past experience
+    *	DAPPO - Decides the data collection plan, what data to collect, how best to collect this data and all the technicalities around data access, quality etc.
+    *	Risks - Ensure a balanced view is taken and that the HiPPs recommendation on type of data is not based on too much bias
+
 2. Data analysis.
+    *	HiPPO - To share their experience (not opinions) from the past on trends and form a hypothesis
+    *	DAPPO – Looking for patterns and trends and visualise the data to see if HiPPs hypothesis on which data to focus on is right. If it is, then focus on this dataset of maximum value to connect the dots rather than getting lost in the sea of data. Form their own hypothesis and test it with data
+    *	Risks - Again, not led too much by HiPPOs bias and past experience
+
 3. Producing Insights.
+    *	HiPPO – Sit back and relax
+    *	DAPPO - To connect the dots, affirm or negate HiPP’s hypothesis. Come up with their own version of truth and clearly highlight the evidence with tangible actions (focusing on ‘So What…’)
+    *	Risks - Make sure evidence is strong and significant to negate HiPP’s hypothesis
+
 4. Taking Actions.
+    *	HiPPO – Due to their seniority, HiPPs are best placed to absorb this insight and decide on the best and most commercially rewarding action to take (not forgetting their focus on the consumer)
+    *	DAPPO - Take note of the actions suggested by HiPPa for your own learning
+    *	Risks - DAPPs needs to ensure their insight is not mis-interpreted in any way and the actions are truly reflective of the insights produced
+
 
 A truly data-driven organisation is where experience and data work together to produce
 evidence-based insight resulting in experienced based decision making.
@@ -55,7 +71,7 @@ making is the most rewarding combination
 * A data-driven organisation is not just about the power of analysts and data but the
 strength of collaboration between HiPPO and DAPPO
 
-I will probably earn some brownie points with HiPPs and a backlash from DAPPOs with this
+I will probably earn some brownie points with HiPPs and a backlash from DAPPs with this
 article.
 
  [Sameer Rahman](https://www.linkedin.com/in/sameer-rahman-data/) Guest Blogger for D3
