@@ -54,4 +54,4 @@ we don’t have expensive overheads, we can pass the savings on to you.
 ### Get in touch
 Drop us a line today and find out how D3 can help you with your digital marketing plans. Whether
 you’re after support on a one-off campaign or help with long-term projects, we can put together a
-tailor-made package to suit your business’s unique requirements. <a href="./contact">Say Hi</a>
+tailor-made package to suit your business’s unique requirements. <a href="./contact">Contact Us</a>

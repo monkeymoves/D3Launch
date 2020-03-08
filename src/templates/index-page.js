@@ -99,7 +99,7 @@ export const IndexPageTemplate = ({
 </section>                
                 <div className="column is-12">
                   <h5 className="has-text-weight-semibold is-size-4 has-text-centered">
-                    Latest blog articles
+                    {/* Latest blog articles */}
                   </h5>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
