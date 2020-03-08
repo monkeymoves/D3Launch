@@ -18,7 +18,9 @@ const Footer = class extends React.Component {
           /></Link>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
-
+        <div className="footer-copyright">
+           <p> Contact us:   <a href="./contact" target="_blank">CLICK </a></p>
+          </div>
           <div className="column is-12 social  ">
 
             <a title="facebook" href="https://facebook.com/datadrivendecisions">
