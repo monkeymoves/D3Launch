@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
 title: Data Driven Decision Making
-date: 2020-08-03T15:04:10.000Z
+date: 2020-02-04T16:04:10.000Z
+description: In an increasingly challenging business environment
 featuredpost: false
 featuredimage: /img/D3_Dark_Digital.png
-description: In an increasingly challenging business environment
 tags:
   - data
   - decisions
