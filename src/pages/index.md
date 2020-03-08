@@ -10,8 +10,7 @@ mainpitch:
     We're a UK digital marketing agency that specialise in taking a data driven approach to helping modern businesses grow.
     
 description: >-
-  The business outcomes you care about always involve a unique mixture of people, data and technology. Our hope is that after working with us, you’ll have a clearer picture of the steps you need to take to make data driven decisions an essential part of your business 
-  - . 
+  The business outcomes you care about involve a unique mixture of people, data and technology. Our hope is that after working with us, you’ll have a clearer picture of the steps you need to take to make data driven decisions an essential part of your business .... the clients below will vouch for us!  
 intro:
   blurbs:
     - image: /img/work2.jpg
