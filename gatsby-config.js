@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'D3 Data Driven Decisions',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'We are a UK digital marketing agency that specialise in taking a data driven approach to helping modern businesses grow. "It works, we can prove it!"'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
