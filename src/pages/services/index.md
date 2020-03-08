@@ -22,7 +22,7 @@ for our clients. We can help identify your core audience’s interests, what pla
 and manage your budget to make sure that your paid social campaigns are successful and scalable.
 
 ### Analytics
-A data driven culture is built on asking the right questions and clear measurements of success.
+A data driven culture is built on asking the right questions and defining clear measurements of success.
 There’s a world of insight to be gained from data - but it can be hard to know where to begin with so
 much information at your fingertips. D3 can help you dig deep into the numbers and use them to
 your advantage. We can test, analyse and improve your campaigns, as well as help you pin-point
