@@ -7,7 +7,7 @@ image: /img/jumbotron.jpg
 description: 
 intro:
   blurbs:
-    - image: Google Ads
+    - image: /img/coffee-gear.png
       text: >
         Pay-per-click or ‘PPC’ advertising can be an incredibly effective marketing tool when done properly. But if you don’t know what you’re doing,
         or are making decisions without data-driven insights, services like Google Ads can be an expensive money pit. D3 can manage your PPC campaigns – from keyword research,
@@ -46,6 +46,9 @@ main:
   image3:
     alt: working with corset story
     image: /img/work3.jpg
+  image4:
+    alt: working with British School of motoring
+    image: /img/work5.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-

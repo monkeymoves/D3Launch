@@ -89,10 +89,18 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div> */}
+<section class="">
+<div class="">
+  <div class=" is-fluid">
+  <img src="./img/banner.png" alt="D3 banner"></img>
+
+  </div>
+</div>
+</section>                
                 <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
+                  <h5 className="has-text-weight-semibold is-size-4 has-text-centered">
+                    Latest blog articles
+                  </h5>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
