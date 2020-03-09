@@ -81,6 +81,19 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
+                      <div className="column is-12 has-text-centered">
+                        
+                        <Link className="btn" to="/about">
+                          About
+                    </Link>&nbsp;
+                        <Link className="btn" to="/services">
+                          Services
+                    </Link>&nbsp;
+                        <Link className="btn" to="/contact">
+                          Contact
+                    </Link>
+                      </div>
+                 
                   </div>
                 </div>
                 {/* <div className=" has-text-centered"><h3>UK brands we've worked with</h3> </div> */}
