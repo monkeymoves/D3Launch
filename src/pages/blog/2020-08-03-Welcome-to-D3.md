@@ -4,7 +4,7 @@ title: Data Driven Decision Making
 date: 2020-03-10T16:04:10.000Z
 description: In an increasingly challenging business environment
 featuredpost: false
-featuredimage: /img/D3_Dark_Digital.png
+featuredimage: /img/comboWhite.png
 tags:
   - data
   - decisions
