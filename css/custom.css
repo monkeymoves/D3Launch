@@ -1,0 +1,31 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+.transparent-header {
+	opacity: .75;
+}
+
+/* #footer {
+	max-height: 5px;
+} */
+
+.blogger {
+	max-height: 150px;
+}
+#page-title.page-title-dark{
+
+	background-color: rgb(31, 30, 30);
+}
+
+.content-wrap {
+	margin-left: 10px;
+	margin-right: 10px;
+	/* padding: 10%; */
+}
+#header {
+	border-bottom: 0px;
+}
