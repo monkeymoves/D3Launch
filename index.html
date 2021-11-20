@@ -29,18 +29,7 @@
 	<!-- Document Title
 	============================================= -->
 	<title>D3 Data Driven | Decisions</title>
-<script>
-	jQuery.event.special.touchstart = {
-    setup: function( _, ns, handle ) {
-        this.addEventListener('touchstart', handle, { passive: !ns.includes('noPreventDefault') });
-    }
-};
-jQuery.event.special.touchmove = {
-    setup: function( _, ns, handle ) {
-        this.addEventListener('touchmove', handle, { passive: !ns.includes('noPreventDefault') });
-    }
-};
-</script>
+
 	<style>
 
 		.revo-slider-emphasis-text {
@@ -621,6 +610,18 @@ jQuery.event.special.touchmove = {
 	<!-- JavaScripts
 	============================================= -->
 	<script src="js/jquery.js"></script>
+	<script>
+		jQuery.event.special.touchstart = {
+		setup: function( _, ns, handle ) {
+			this.addEventListener('touchstart', handle, { passive: !ns.includes('noPreventDefault') });
+		}
+	};
+	jQuery.event.special.touchmove = {
+		setup: function( _, ns, handle ) {
+			this.addEventListener('touchmove', handle, { passive: !ns.includes('noPreventDefault') });
+		}
+	};
+	</script>
 	<script src="js/plugins.min.js"></script>
 
 	<!-- Footer Scripts
