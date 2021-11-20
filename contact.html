@@ -166,9 +166,12 @@
 
 							<!-- Contact Form
 							============================================= -->
-							<form class="row mb-0"  data-netlify="true" name="template-contactform"  method="POST"   >
+							<form class="row mb-0"  data-netlify="true" name="template-contactform"  netlify-honeypot="bot-field" method="POST"   >
 
 								<div class="col-md-6 form-group">
+									<p class="hidden">
+										<label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+									  </p>
 									<label for="template-contactform-name">Name <small>*</small></label>
 									<input type="text" id="name" name="template-contactform-name" value="" class="sm-form-control required" />
 								</div>
