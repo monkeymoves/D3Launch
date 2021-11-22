@@ -29,3 +29,11 @@
 #header {
 	border-bottom: 0px;
 }
+
+
+
+  ol li {
+	/* background: #ffe5e5; */
+	padding: 15px;
+	margin-left: 35px;
+  }
