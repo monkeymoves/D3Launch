@@ -2754,7 +2754,7 @@ img.lazy:not([src]) {
 	will-change: transform;
 }
 
-.mobile-parallax,
+.mobile-parallax
 .video-placeholder {
 	background-size: cover !important;
 	background-attachment: scroll !important;
