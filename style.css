@@ -7556,7 +7556,9 @@ body:not(.device-touch) .portfolio {
 -----------------------------------------------------------------*/
 
 
-#posts { position: relative; }
+#posts { 
+	position: relative; 
+}
 
 .entry {
 	position: relative;
@@ -7576,7 +7578,8 @@ body:not(.device-touch) .portfolio {
 	background-color: #F5F5F5;
 }
 
-.entry-image { margin-bottom: 30px; }
+.entry-image { margin-bottom: 30px; 
+}
 
 .posts-md .entry-image,
 .posts-sm .entry-image {
